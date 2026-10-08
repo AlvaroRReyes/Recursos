@@ -31,7 +31,7 @@
 
 | Recurso | Enlace | Añadido por |
 |---------|--------|------------|
-| | | |
+|Ejercicios de disco duro de roer |https://www.youtube.com/watch?v=LtgnZIgt3XU&list=PLaxZkGlLWHGWngLsc2l9TA4dyHQPOpgVR&index=1 |Esther |
 | | | |
 | | | |
 
