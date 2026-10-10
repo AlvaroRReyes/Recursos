@@ -42,8 +42,8 @@
 
 | Recurso | Enlace | Añadido por |
 |---------|--------|------------|
-| | | |
-| | | |
+https://www.youtube.com/watch?v=7q2VBGIKeYc
+https://www.youtube.com/watch?v=hfwtzjOhvKk
 | | | |
 
 ---
