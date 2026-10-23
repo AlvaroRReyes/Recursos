@@ -97,7 +97,7 @@ https://www.youtube.com/watch?v=hfwtzjOhvKk
 
 | Recurso | Enlace | Añadido por |
 |---------|--------|------------|
-| | | |
+| ¿qué es Maven|https://www.youtube.com/watch?v=rE7zLuQv2IU |Álvaro |
 | | | |
 | | | |
 
@@ -108,7 +108,7 @@ https://www.youtube.com/watch?v=hfwtzjOhvKk
 
 | Recurso | Enlace | Añadido por |
 |---------|--------|------------|
-| | | |
+|curso de midudex |https://www.youtube.com/watch?v=niPExbK8lSw | Álvaro|
 | | | |
 | | | |
 
