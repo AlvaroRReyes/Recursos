@@ -119,8 +119,8 @@ https://www.youtube.com/watch?v=hfwtzjOhvKk
 
 | Recurso | Enlace | Añadido por |
 |---------|--------|------------|
-| | | |
-| | | |
+|Curso javascript  |https://www.youtube.com/watch?v=f7XjjKhLCsA&t=18151s |Álvaro |
+| Curso javascript de midudev|https://www.jscamp.dev/javascript/optional-chaining |Álvsro |
 | | | |
 
 ---
